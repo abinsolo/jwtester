@@ -59,6 +59,8 @@ python3 -c "import jwt; print(jwt.encode(
 │ [+] KID Injection — OK         │
 ╰────────────────────────────────╯
 ```
+##Demo
+![JWTester Demo](screenshots/demo.png)
 
 ## Legal
 Only test tokens you own or have explicit permission to test.
